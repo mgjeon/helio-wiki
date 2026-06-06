@@ -1,0 +1,5 @@
+# Obsidian local UI/session state
+.obsidian/workspace*.json
+
+# OS/editor cruft
+.DS_Store
