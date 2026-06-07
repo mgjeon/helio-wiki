@@ -47,5 +47,19 @@ confidence: high | medium | low
 - Create concept pages for model families and scientific workflows recurring across sources.
 - Prefer concise pages with source-backed bullets over long prose.
 
+## Enriched Software Page Sections
+For priority software pages, expand beyond repository inspection notes with source-backed sections that help a researcher decide whether and how to use the tool:
+
+- Identification
+- Scientific purpose
+- Methods and algorithms
+- Inputs and outputs
+- Installation and usage
+- Strengths
+- Limitations
+- Recommended use cases
+- Uncertainties
+- Related wiki pages
+
 ## Update Policy
 When a source conflicts with an existing page, preserve both statements with dates/source URLs and mark the page `contested: true` or `confidence: low`.

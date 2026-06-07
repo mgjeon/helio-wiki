@@ -19,7 +19,10 @@ Start with:
 - [[workflow-map]] — observation-to-forecasting workflow map.
 - [[taxonomy]] — compact method/data/software taxonomy.
 - [[SCHEMA]] — conventions, frontmatter, and tag taxonomy.
+- [[agent-update-guidelines]] — operating instructions for future LLM agents updating the wiki.
 - [[log]] — chronological ingest log.
+- [[glossary]] — short definitions for recurring heliophysics terms.
+- [[uncertainty-log]] — open verification questions and merge cautions.
 - `_meta/source-inspection.json` — machine-readable inspection metadata from repository/web retrieval.
 
 Primary concept pages:

@@ -10,9 +10,16 @@ confidence: high
 
 # Wiki Index
 
-> Solar physics and space weather software knowledge base. Last updated: 2026-06-07 | Total pages: 101
+> Solar physics and space weather software knowledge base. Last updated: 2026-06-07 | Total pages: 105
 
 Landing page: [[README]].
+
+## Support
+- [[SCHEMA]] — conventions, frontmatter, and tag taxonomy.
+- [[agent-update-guidelines]] — operating instructions for future LLM agents updating the wiki.
+- [[log]] — chronological ingest log.
+- [[glossary]] — short definitions for recurring heliophysics terms.
+- [[uncertainty-log]] — open verification questions and merge cautions.
 
 ## Ecosystem
 - [[overview]] — Ecosystem-level orientation for the heliosphere wiki.
@@ -26,6 +33,7 @@ Landing page: [[README]].
 - [[dem-tools]] — Differential emission measure software.
 - [[cme-tools]] — CME structure and propagation tooling.
 - [[solar-wind-tools]] — Ambient solar-wind modeling and data tools.
+- [[external-wiki-comparison]] — Comparison with the independently generated wiki archive and improvement directions.
 
 ## Concepts
 - [[active-region-parameters]] — Active Region Parameters.

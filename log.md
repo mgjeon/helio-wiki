@@ -45,3 +45,21 @@ confidence: high
 - Adjusted global graph defaults for a cleaner visual overview: hide raw/meta paths and unresolved/orphan nodes by default.
 - Added folder-based color groups for ecosystem, concepts, comparisons, and software pages.
 - Tuned graph force, node, label, and line settings to reduce visual clutter in the default graph view.
+
+## [2026-06-07] compare | External independently generated wiki archive
+- Compared `/Users/mausr/Downloads/wiki.zip` against the current wiki.
+- Added [[external-wiki-comparison]] with structural, coverage, citation, and readability findings.
+- Identified high-value imports: glossary, uncertainty log, richer software-page sections, and reader-oriented expansions for ecosystem/comparison pages.
+
+## [2026-06-07] update | Seed glossary and uncertainty log
+- Added [[glossary]] from the external wiki's onboarding pattern, rewritten with current-wiki internal links.
+- Added [[uncertainty-log]] from the external wiki's open-question pattern, rewritten as source-verification tasks.
+- Linked both pages from [[README]] and [[index]].
+
+## [2026-06-07] update | Add enriched software-page section guidance
+- Updated [[SCHEMA]] with recommended sections for priority software-page enrichment based on the external wiki comparison.
+
+## [2026-06-07] update | Add future agent update guidelines
+- Added [[agent-update-guidelines]] based on `/Users/mausr/Downloads/llm-wiki.txt`, [[external-wiki-comparison]], and current [[SCHEMA]] conventions.
+- Documented source handling, update workflow, software-page enrichment, uncertainty discipline, lint checks, and completion checklist for future LLM agents.
+- Linked the guidelines from [[README]] and [[index]].
