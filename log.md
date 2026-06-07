@@ -80,3 +80,7 @@ confidence: high
 - Updated [[solar-wind-tools]], [[cme-tools]], and [[workflow-map]] so the new pages are integrated into selection guidance rather than isolated notes.
 - Updated [[index]] page count to 110 and added the new software entries.
 
+## [2026-06-08] update | Define wiki-based ecosystem briefing format
+- Added [[wiki-briefing-format]] to clarify that the preferred software ecosystem briefing should synthesize stored wiki knowledge into readable tool-family, algorithm, comparison, code-connection, and research-use guidance rather than defaulting to latest external updates.
+- Updated [[index]] query catalog and page count to 111.
+

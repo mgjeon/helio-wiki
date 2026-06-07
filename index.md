@@ -10,7 +10,7 @@ confidence: high
 
 # Wiki Index
 
-> Solar physics and space weather software knowledge base. Last updated: 2026-06-08 | Total pages: 110
+> Solar physics and space weather software knowledge base. Last updated: 2026-06-08 | Total pages: 111
 
 Landing page: [[README]].
 
@@ -50,6 +50,7 @@ Landing page: [[README]].
 
 ## Queries
 - [[jsoc-sharp-pipeline-structure]] — JSOC SHARP/HARP/HMI vector-field pipeline structure, algorithms, code paths, product series, and caveats.
+- [[wiki-briefing-format]] — Preferred synthesis style for LLM-wiki-based software ecosystem briefings.
 
 ## Software
 
