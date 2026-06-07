@@ -15,6 +15,9 @@ This is a persistent Markdown wiki for solar physics and space weather software.
 Start with:
 
 - [[index]] — full page catalog.
+- [[overview]] — ecosystem-level orientation.
+- [[workflow-map]] — observation-to-forecasting workflow map.
+- [[taxonomy]] — compact method/data/software taxonomy.
 - [[SCHEMA]] — conventions, frontmatter, and tag taxonomy.
 - [[log]] — chronological ingest log.
 - `_meta/source-inspection.json` — machine-readable inspection metadata from repository/web retrieval.
@@ -31,3 +34,12 @@ Primary concept pages:
 - [[active-region-parameters]]
 - [[solar-data-access]]
 - [[coronal-heating-and-loop-synthesis]]
+
+Comparison pages:
+
+- [[pfss-tools]]
+- [[nlfff-tools]]
+- [[qsl-tools]]
+- [[dem-tools]]
+- [[cme-tools]]
+- [[solar-wind-tools]]

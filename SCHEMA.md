@@ -1,3 +1,13 @@
+---
+title: Wiki Schema
+created: 2026-06-07
+updated: 2026-06-07
+type: summary
+tags: [solar-physics, space-weather, schema]
+sources: []
+confidence: high
+---
+
 # Wiki Schema
 
 ## Domain

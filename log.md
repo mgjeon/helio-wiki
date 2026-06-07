@@ -1,3 +1,13 @@
+---
+title: Wiki Log
+created: 2026-06-07
+updated: 2026-06-07
+type: summary
+tags: [solar-physics, space-weather, log]
+sources: []
+confidence: high
+---
+
 # Wiki Log
 
 > Chronological record of all wiki actions. Append-only.
@@ -19,3 +29,9 @@
 - Rechecked NOAA SWPC real-time solar wind and WSA-ENLIL pages with `curl --tlsv1.2` and updated their software pages from low to medium confidence.
 - Rechecked DeepWiki JSOC-SDP/proj with `curl -L` and updated the page with canonical retrieval details.
 - Added arXiv and CentAUR fallback sources for the ScienceDirect CME propagation review, which remained blocked by HTTP 403.
+
+## [2026-06-07] verify | Heliosphere wiki polish pass
+- Confirmed that the two heliosphere source lists contain 89 URL mentions and 76 unique URLs, all represented in `_meta/source-inspection.json` and Markdown pages.
+- Confirmed zero missing Obsidian wikilink targets after audit.
+- Added ecosystem overview, taxonomy, workflow map, and comparison pages for PFSS/NLFFF/QSL/DEM/CME/solar-wind groupings.
+- Added frontmatter to root summary pages so the wiki conforms to `SCHEMA.md`.

@@ -1,6 +1,29 @@
+---
+title: Wiki Index
+created: 2026-06-07
+updated: 2026-06-07
+type: summary
+tags: [solar-physics, space-weather, index]
+sources: [raw/transcripts/Solar-Physics-Codes-Solar-Wind-CME_1.md, raw/transcripts/Solar-Physics-Codes-Magnetic-Fields-Active-Region-DEM_1.md]
+confidence: high
+---
+
 # Wiki Index
 
-> Solar physics and space weather software knowledge base. Last updated: 2026-06-07 | Total pages: 87
+> Solar physics and space weather software knowledge base. Last updated: 2026-06-07 | Total pages: 101
+
+## Ecosystem
+- [[overview]] — Ecosystem-level orientation for the heliosphere wiki.
+- [[taxonomy]] — Compact method/data/software taxonomy.
+- [[workflow-map]] — Observation-to-forecasting workflow map.
+
+## Comparisons
+- [[pfss-tools]] — PFSS and potential-field tooling.
+- [[nlfff-tools]] — NLFFF, neural-field, and magnetic-field inversion tooling.
+- [[qsl-tools]] — QSL and field-line topology tooling.
+- [[dem-tools]] — Differential emission measure software.
+- [[cme-tools]] — CME structure and propagation tooling.
+- [[solar-wind-tools]] — Ambient solar-wind modeling and data tools.
 
 ## Concepts
 - [[active-region-parameters]] — Active Region Parameters.

@@ -4,8 +4,8 @@ created: 2026-06-07
 updated: 2026-06-07
 type: software
 tags: [cme, documentation, drag-based-model, forecasting, solar-physics]
-sources: [https://www.sciencedirect.com/science/article/pii/S0273117723005239]
-confidence: low
+sources: [https://www.sciencedirect.com/science/article/pii/S0273117723005239, https://arxiv.org/abs/2308.04851, https://centaur.reading.ac.uk/112906/]
+confidence: medium
 ---
 
 # CME propagation through the heliosphere: Status and future of observations and model development
