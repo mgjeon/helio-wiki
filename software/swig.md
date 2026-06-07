@@ -25,7 +25,7 @@ Input grouping: `Predictive Science`. Source list: [[doc_2592136f325f_Solar-Phys
 - README note: `SWiG` is a code pacakge that generates emperical solar wind Source: https://github.com/predsci/SWiG/blob/main/README.md
 - README note: solutions (WSA or DCHB) using potential field source surface Source: https://github.com/predsci/SWiG/blob/main/README.md
 - README note: (PFSS) and current sheet (CS) models of the coronal magnetic field. Source: https://github.com/predsci/SWiG/blob/main/README.md
-- README note: SWiG includes the potential field solver [POT3D](https;//github.com/predsci/pot3d) Source: https://github.com/predsci/SWiG/blob/main/README.md
+- README note: SWiG includes the potential field solver [POT3D](https://github.com/predsci/pot3d). Source: https://github.com/predsci/SWiG/blob/main/README.md
 
 ## Inspected artifacts
 

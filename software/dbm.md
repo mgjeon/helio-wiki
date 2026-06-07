@@ -25,7 +25,7 @@ Input grouping: `CME Propagation Model`. Source list: [[doc_2f75ba2ae09c_Solar-P
 - README note: This repository consist of python class to predict Coronal Mass Ejection (CME) arrival time in the heliosphere using Drag Based Model (DBM) and Probabilistic Drag based Model (P-DBM). Source: https://github.com/astronish16/DBM/blob/main/README.md
 - README note: For better project management, we have used [UV](https://docs.astral.sh/uv/). We recommend to have UV installed on your system. Source: https://github.com/astronish16/DBM/blob/main/README.md
 - README note: 2. Install dependencies:\ Source: https://github.com/astronish16/DBM/blob/main/README.md
-- README note: Required dependencies are listed in [pyproject.toml](pyproject.toml). Following command will create virtual enviroment for this project inside the directory and install all the dependecies. Source: https://github.com/astronish16/DBM/blob/main/README.md
+- README note: Required dependencies are listed in `pyproject.toml`. Following command will create virtual enviroment for this project inside the directory and install all the dependecies. Source: https://github.com/astronish16/DBM/blob/main/README.md
 - Packaging/configuration file `pyproject.toml` was inspected, indicating installable or configured software components. Source: https://github.com/astronish16/DBM/blob/main/pyproject.toml
 
 ## Inspected artifacts

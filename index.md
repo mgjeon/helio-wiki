@@ -12,6 +12,8 @@ confidence: high
 
 > Solar physics and space weather software knowledge base. Last updated: 2026-06-07 | Total pages: 101
 
+Landing page: [[README]].
+
 ## Ecosystem
 - [[overview]] — Ecosystem-level orientation for the heliosphere wiki.
 - [[taxonomy]] — Compact method/data/software taxonomy.

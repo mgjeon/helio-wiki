@@ -35,3 +35,8 @@ confidence: high
 - Confirmed zero missing Obsidian wikilink targets after audit.
 - Added ecosystem overview, taxonomy, workflow map, and comparison pages for PFSS/NLFFF/QSL/DEM/CME/solar-wind groupings.
 - Added frontmatter to root summary pages so the wiki conforms to `SCHEMA.md`.
+
+## [2026-06-07] update | Obsidian graph polish
+- Set the default graph filter to hide `raw/` transcript files so concept and software pages dominate the initial graph view.
+- Removed a local Markdown link to `pyproject.toml` that created a non-knowledge unresolved node in Obsidian.
+- Corrected a malformed POT3D URL in the SWiG page and linked the index back to the README landing page.
