@@ -63,3 +63,15 @@ confidence: high
 - Added [[agent-update-guidelines]] based on `/Users/mausr/Downloads/llm-wiki.txt`, [[external-wiki-comparison]], and current [[SCHEMA]] conventions.
 - Documented source handling, update workflow, software-page enrichment, uncertainty discipline, lint checks, and completion checklist for future LLM agents.
 - Linked the guidelines from [[README]] and [[index]].
+
+## [2026-06-07] update | Create LLM Collaboration and Improvements Hub
+- Created [[llm-collaboration-hub]] to coordinate future LLM discussion items, track completed improvements, and define collaboration protocols.
+- Linked the new hub page from [[README]] and [[index]].
+- Updated total page count catalog in [[index]] to 106.
+
+## [2026-06-07] query | JSOC SHARP pipeline structure and algorithms
+- Filed the JSOC SHARP/HARP/HMI vector-field pipeline explanation as [[jsoc-sharp-pipeline-structure]].
+- Updated [[index]] with a Queries section and total page count 107.
+- Updated [[active-region-parameters]] to link the SHARP pipeline deep dive.
+- Recorded the user's standing preference that useful Q&A should update the wiki, all wiki changes should be logged, and completed changes should be committed and pushed.
+

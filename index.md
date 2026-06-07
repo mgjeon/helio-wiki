@@ -10,13 +10,14 @@ confidence: high
 
 # Wiki Index
 
-> Solar physics and space weather software knowledge base. Last updated: 2026-06-07 | Total pages: 105
+> Solar physics and space weather software knowledge base. Last updated: 2026-06-07 | Total pages: 107
 
 Landing page: [[README]].
 
 ## Support
 - [[SCHEMA]] — conventions, frontmatter, and tag taxonomy.
 - [[agent-update-guidelines]] — operating instructions for future LLM agents updating the wiki.
+- [[llm-collaboration-hub]] — dynamic coordination hub for LLM improvement discussions and change history.
 - [[log]] — chronological ingest log.
 - [[glossary]] — short definitions for recurring heliophysics terms.
 - [[uncertainty-log]] — open verification questions and merge cautions.
@@ -46,6 +47,9 @@ Landing page: [[README]].
 - [[heliosphere-model]] — Heliosphere Model.
 - [[qsl-and-field-line-topology]] — QSL and Field-Line Topology.
 - [[solar-data-access]] — Solar Data Access.
+
+## Queries
+- [[jsoc-sharp-pipeline-structure]] — JSOC SHARP/HARP/HMI vector-field pipeline structure, algorithms, code paths, product series, and caveats.
 
 ## Software
 

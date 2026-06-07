@@ -20,6 +20,7 @@ Start with:
 - [[taxonomy]] — compact method/data/software taxonomy.
 - [[SCHEMA]] — conventions, frontmatter, and tag taxonomy.
 - [[agent-update-guidelines]] — operating instructions for future LLM agents updating the wiki.
+- [[llm-collaboration-hub]] — dynamic coordination hub for LLM improvement discussions and change history.
 - [[log]] — chronological ingest log.
 - [[glossary]] — short definitions for recurring heliophysics terms.
 - [[uncertainty-log]] — open verification questions and merge cautions.
