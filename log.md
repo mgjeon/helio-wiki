@@ -75,3 +75,8 @@ confidence: high
 - Updated [[active-region-parameters]] to link the SHARP pipeline deep dive.
 - Recorded the user's standing preference that useful Q&A should update the wiki, all wiki changes should be logged, and completed changes should be committed and pushed.
 
+## [2026-06-08] ingest | Recent solar and space-weather software papers from briefing scan
+- Added [[atharv]], [[swdatatoolkit]], and [[pop-corn]] from recent arXiv software/tooling papers surfaced during the ecosystem briefing.
+- Updated [[solar-wind-tools]], [[cme-tools]], and [[workflow-map]] so the new pages are integrated into selection guidance rather than isolated notes.
+- Updated [[index]] page count to 110 and added the new software entries.
+

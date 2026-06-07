@@ -10,7 +10,7 @@ confidence: high
 
 # Wiki Index
 
-> Solar physics and space weather software knowledge base. Last updated: 2026-06-07 | Total pages: 107
+> Solar physics and space weather software knowledge base. Last updated: 2026-06-08 | Total pages: 110
 
 Landing page: [[README]].
 
@@ -69,7 +69,9 @@ Landing page: [[README]].
 - [[nso-global-oscillation-network-group-gong]] — NSO: Global Oscillation Network Group (GONG). Source: https://gong.nso.edu/
 - [[parameter-estimation-solar-wind]] — Bayesian Inference and Global Sensitivity Analysis for Ambient Solar Wind Prediction. Source: https://github.com/opaliss/Parameter_Estimation_Solar_Wind
 - [[pfsspy]] — From David Stansby, the lead author of *pfsspy*:. Source: https://github.com/dstansby/pfsspy
+- [[pop-corn]] — Neural-network coronal-hole detection tool for solar-wind source-region analysis. Source: https://arxiv.org/abs/2603.25591
 - [[solarmach]] — solarmach. Source: https://github.com/jgieseler/solarmach
+- [[swdatatoolkit]] — Python library for solar and space-weather data acquisition, preprocessing, and analysis. Source: https://arxiv.org/abs/2604.22741
 - [[synoptic-group-zero-point-corrected-magnetogram-synoptic-map-images]] — Synoptic Group Zero Point Corrected Magnetogram Synoptic Map Images. Source: https://magmap.nso.edu/index.html
 - [[synoptic-maps-nso-national-solar-observatory]] — Synoptic Maps - NSO - National Solar Observatory. Source: https://nso.edu/data/nisp-data/synoptic-maps/
 - [[unifying-the-validation-of-ambient-solar-wind-models]] — Redirecting. Source: https://doi.org/10.1016/j.asr.2022.05.026
@@ -96,6 +98,7 @@ Landing page: [[README]].
 - [[the-soho-lasco-instrument-homepage]] — The SOHO/LASCO Instrument Homepage. Source: https://lasco-www.nrl.navy.mil/index.php
 
 ### CME Structure Model
+- [[atharv]] — ICME magnetic-structure visualization/analysis tool. Source: https://arxiv.org/abs/2606.01893
 - [[cone-model-for-cme]] — Cone Model for CME. Source: https://github.com/astronish16/Cone_Model_for_CME
 - [[gcs-benchmarking]] — GCS-Benchmarking. Source: https://github.com/KeyanGootkin/GCS-Benchmarking
 - [[gcs-python]] — GCS in Python. Source: https://github.com/johan12345/gcs_python
