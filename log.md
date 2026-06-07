@@ -40,3 +40,8 @@ confidence: high
 - Set the default graph filter to hide `raw/` transcript files so concept and software pages dominate the initial graph view.
 - Removed a local Markdown link to `pyproject.toml` that created a non-knowledge unresolved node in Obsidian.
 - Corrected a malformed POT3D URL in the SWiG page and linked the index back to the README landing page.
+
+## [2026-06-07] update | Tune Obsidian graph display
+- Adjusted global graph defaults for a cleaner visual overview: hide raw/meta paths and unresolved/orphan nodes by default.
+- Added folder-based color groups for ecosystem, concepts, comparisons, and software pages.
+- Tuned graph force, node, label, and line settings to reduce visual clutter in the default graph view.
