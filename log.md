@@ -84,3 +84,7 @@ confidence: high
 - Added [[wiki-briefing-format]] to clarify that the preferred software ecosystem briefing should synthesize stored wiki knowledge into readable tool-family, algorithm, comparison, code-connection, and research-use guidance rather than defaulting to latest external updates.
 - Updated [[index]] query catalog and page count to 111.
 
+## [2026-06-10] update | Add repository agent instructions
+- Added `AGENTS.md` with standing instructions for wiki-grounded Q&A, wiki updates when reusable knowledge emerges, required log entries, and git commit/push workflow.
+- Preserved the RTK command requirement by including the local RTK instruction file.
+
